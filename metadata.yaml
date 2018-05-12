@@ -1,0 +1,41 @@
+_repo: Abraham-Lincoln-Volume-2--of-2-The-True-Story-of-a-Great-Life_38484
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: White, Horace
+    birthdate: 1834
+    deathdate: 1916
+    gutenberg_agent_id: '9116'
+    url: http://www.gutenberg.org/2009/agents/9116
+    wikipedia: http://en.wikipedia.org/wiki/Horace_White_%28writer%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Weik, Jesse William
+    alias: Weik, Jesse W. (Jesse William)
+    birthdate: 1857
+    deathdate: 1930
+    gutenberg_agent_id: '39491'
+    url: http://www.gutenberg.org/2009/agents/39491
+  - agent_name: Herndon, William Henry
+    alias: Herndon, William H. (William Henry)
+    birthdate: 1818
+    deathdate: 1891
+    gutenberg_agent_id: '39490'
+    url: http://www.gutenberg.org/2009/agents/39490
+description: ''
+gutenberg_issued: '2012-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcc 'E456'
+title: 'Abraham Lincoln: The True Story of a Great Life, Volume 2 (of 2)'
+url: http://www.gutenberg.org/ebooks/38484
